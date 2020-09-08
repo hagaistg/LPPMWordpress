@@ -1,0 +1,18 @@
+/**
+* Custom Css for backend 
+*
+* @package RT_Magazine
+*/
+
+#footer-right-promo-section summary,
+#featured-slider-section summary{
+	background: #e2e2e2;
+	padding: 10px;
+	text-align: center;
+	color: #fff;
+}
+
+.widget-title h3, 
+.widget-title h4{
+	white-space: inherit;
+}

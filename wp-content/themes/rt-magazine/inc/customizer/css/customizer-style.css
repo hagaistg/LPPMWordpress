@@ -1,0 +1,13 @@
+/**
+* Custom Css for backend 
+*
+* @package Mag_Pro
+*/
+#rt-magazine-img-container li{
+	padding: 3px;
+}
+#rt-magazine-img-container .rt-magazine-radio-img-selected{
+	border: 3px solid #bcbcbc;
+	padding: 1px;
+	width: 16%;
+}
